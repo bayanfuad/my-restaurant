@@ -12,10 +12,12 @@ restaurant website task 03
 -Indian chiken and rice
 
 *Western:*
+
 -Pasta
 -Mashroom Burger
 
 *Middle Eastern:*
+
 -Kabsah
 -Mansaf
 -Tabooleh

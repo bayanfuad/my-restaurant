@@ -21,3 +21,5 @@ restaurant website task 03
 -Kabsah
 -Mansaf
 -Tabooleh
+
+![wireframe](wireframe.PNG)

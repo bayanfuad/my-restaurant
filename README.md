@@ -23,7 +23,7 @@ restaurant website task 03
 -Tabooleh
 
  
-![wireframe](wireframe.PNG)
+
 
 
 ![alt text](https://yummyistanbul.com/wp-content/uploads/2022/02/chinese-food-istanbul.jpg)
@@ -38,3 +38,5 @@ here are some links for similar recipes
 
   [wetren food](https://www.crazymasalafood.com/20-western-dishes-will-leave-finger-licking/)  
 
+
+![wireframe](wireframe.PNG)

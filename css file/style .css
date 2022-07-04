@@ -1,0 +1,38 @@
+h2{
+    color:rgb(112, 25, 80);
+    font-size:xx-large;
+    background-color: khaki;
+    background-size: contain;
+    padding: 30px;
+    text-align: center;
+}
+.introduction {
+    background-color: peru;
+    font-size:30px;
+   padding:  60px;
+
+}
+.image {
+margin-left: 250px ;
+width: 1300px;
+height: 750px;
+background-color: wheat;
+}
+li {
+    background-color: darksalmon;
+    font-size:larger;
+    padding: 15px;
+    margin-left: 70px;
+    align-content: center;
+    
+}
+.name {
+    text-align: center;
+    color: rgb(112, 25, 80);
+    background-color: wheat;
+}
+footer {
+    background-color: blanchedalmond;
+    font-style: oblique;
+    font-size: larger;
+}
